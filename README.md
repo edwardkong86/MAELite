@@ -1,8 +1,8 @@
 ## Getting started
 
 ### React Native Setup
-NODE Version: 16.17.1
-xCode Version: 14.2
+1. NODE Version: 16.17.1
+2. xCode Version: 14.2
 
 ### Android
 https://reactnative.dev/docs/environment-setup?platform=android
