@@ -21,5 +21,6 @@ https://reactnative.dev/docs/environment-setup?platform=ios
 #### IOS
 Archive in XCode (14.2)
 
+### Validate
 When successful build and run on simulator or phone, it will show dashboard as below:-
 ![Dashboard](https://github.com/edwardkong86/MAELite/assets/12832857/7434cd42-6711-43eb-8012-410a451c6c71)
