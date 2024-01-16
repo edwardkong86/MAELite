@@ -9,18 +9,22 @@ https://reactnative.dev/docs/environment-setup?platform=android
 ### IOS
 https://reactnative.dev/docs/environment-setup?platform=ios
 
-### 
+## Build
 1. `npm i` or `yarn`
 2. `npm run start` or `yarn start` in terminal 1
 
 ### Debug
-`npm run ios` or `yarn ios` (for IOS) `npm run android` or `yarn android` (for Android) in another terminal 
+##### Android
+ `npm run android` or `yarn android`
+##### IOS
+`npm run ios` or `yarn ios`
+
 ### Release
-#### Android
+##### Android
 `npm run android:release` or `yarn android:release` (for Android)
-#### IOS
+##### IOS
 Archive in XCode (14.2)
 
-### Validate
+## Validate
 When successful build and run on simulator or phone, it will show dashboard as below:-
 ![Dashboard](https://github.com/edwardkong86/MAELite/assets/12832857/7434cd42-6711-43eb-8012-410a451c6c71)
